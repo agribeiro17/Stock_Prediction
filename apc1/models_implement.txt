@@ -1,5 +1,0 @@
-Models to implement:
-	- Linear Regression, done
-	- LSTM(RNN), done
-	- KNN, done
-	- Random Forest 

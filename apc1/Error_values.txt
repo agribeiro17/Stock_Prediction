@@ -1,5 +1,0 @@
-First linear regression
-
-Mean Absolute Error: 6.313944360005432
-Mean Squared Error: 87.24550052795043
-Root Mean Square Error: 9.340529991812586
