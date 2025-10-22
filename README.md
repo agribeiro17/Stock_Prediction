@@ -12,6 +12,26 @@ This work was part of the **Machine Learning (APC)** course in the **Master’s 
 
 This course provides a comprehensive introduction to Machine Learning, covering both theoretical foundations and practical applications through hands-on projects. Students learn to design, implement, and evaluate learning models while developing teamwork, analytical thinking, and self-directed learning skills.
 
+## 🧠 Technologies Used
+
+- **Python** – main programming language for all data processing and modeling tasks
+
+- **Pandas & NumPy** – for time series manipulation, feature construction, and dataset restructuring
+
+- **Scikit-learn** – for regression modeling (KNN, Random Forest), preprocessing, evaluation (MAE, MSE, RMSE), and hyperparameter tuning with GridSearchCV
+
+- **TensorFlow / Keras** – used for building and training the LSTM model for sequential data learning
+
+- **Matplotlib & Seaborn** – for correlation analysis, exploratory visualization, and performance plots
+
+- **Feature Engineering** – generation of lag-based features and construction of complete stock–date–time combinations using MultiIndexing
+
+- **Model Comparison** – performance evaluation and benchmarking across KNN, LSTM, and Random Forest models
+
+- **Cross-Validation & Optimization** – applied to tune hyperparameters and assess generalization performance
+
+- **Performance Metrics** – included MAE, MSE, and RMSE for quantitative model evaluation
+
 ## 📄 Report
 
 A detailed report for this project can be found here: [Optiver Report](https://drive.google.com/file/d/1DVMGCJx-15krngVmtu-hRGlwvaYODCM1/view?usp=sharing), or the `pdf` folder within this repository. The report includes a full explanation of the methodology, results, and conclusions drawn from the experiments.
